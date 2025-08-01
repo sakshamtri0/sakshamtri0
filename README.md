@@ -18,7 +18,7 @@
 - 💻 Final year CSE student from NIET, Greater Noida  
 - 💡 Strong in Java, Python, and Web Development  
 - 🔍 Built full-stack apps, real-time AI tools, and ERP systems  
-- 🧠 Solved 230+ LeetCode problems using Java: [My Profile](https://leetcode.com/u/sakshamtri0)  
+- 🧠 Solved 300+ LeetCode problems using Java: [My Profile](https://leetcode.com/u/sakshamtri0)  
 - ✍️ Participated in MUN as International Press Member  
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/saksham-kumar-tripathi)
 
@@ -73,7 +73,7 @@ Tools:            Git, VS Code, Excel, Canva
 
 ### 📝 Highlights
 
-- ✅ Solved **230+ DSA** problems on LeetCode  
+- ✅ Solved **300+ DSA** problems on LeetCode  
 - 💡 Built **ERP + AI Projects** from scratch  
 - 🧾 Contributed live journalism at **Model United Nations (MUN)**  
 - 🎯 Strong fundamentals in **DSA, OOP, and Web Technologies**
